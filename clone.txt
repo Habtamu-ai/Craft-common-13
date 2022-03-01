@@ -1,1 +1,9 @@
 check up after pull
+this is a trial for git desktop
+I will create  a branch name which is branch 1 and practice everything that I have learned on github terminal and browser
+ for this : I will do the following
+ 1. git status
+ 2. git add .
+ 3. git status
+ 4. git commit -m ""
+ 5. git push
